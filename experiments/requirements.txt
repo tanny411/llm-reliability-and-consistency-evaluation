@@ -1,0 +1,21 @@
+pytorch
+openai
+tokenizers
+transformers
+datasets
+accelerate
+huggingface_hub
+sentencepiece
+tiktoken
+pandas
+matplotlib
+seaborn
+plotly
+black
+einops # for falcon
+# scipy
+# bitsandbytes # to load in 4/8 bit precision
+
+# conda install -c conda-forge openai -y # for each individual package if using conda
+## get cuda enabled pytorch version from https://pytorch.org/
+# conda install pytorch torchvision torchaudio pytorch-cuda=11.8 -c pytorch -c nvidia

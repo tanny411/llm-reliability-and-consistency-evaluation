@@ -1,0 +1,18 @@
+**/.ipynb_checkpoints
+other_modules/*
+datasets/*
+llama/
+llama2/
+.vscode/
+hf/
+.cache/
+__pycache__
+# config.py  ## Needs to be uncommented later
+job_outputs/
+.offload
+.cache/
+**/test*
+**/processed_model_responses_cls/*
+**/*all_model_responses*.csv
+**/llama.cpp/
+**/models/

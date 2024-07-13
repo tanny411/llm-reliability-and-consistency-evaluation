@@ -1,0 +1,37 @@
+fullname,#Params (B),Type,Average ⬆️
+EleutherAI/gpt-j-6b,6,🟢 pretrained,40.10074896682374
+EleutherAI/gpt-neo-2.7B,2,🟢 pretrained,36.19824768495068
+EleutherAI/pythia-6.9b-deduped,6,🟢 pretrained,39.29619700960102
+HuggingFaceH4/zephyr-7b-alpha,7,🔶 fine-tuned on domain-specific datasets,59.495598231916354
+Neko-Institute-of-Science/pygmalion-7b,6,🔶 fine-tuned on domain-specific datasets,46.040960505942756
+Open-Orca/Mistral-7B-OpenOrca,7,🔶 fine-tuned on domain-specific datasets,60.17299741784677
+PygmalionAI/pygmalion-6b,6,🔶 fine-tuned on domain-specific datasets,38.46964052270226
+WizardLM/WizardMath-7B-V1.0,7,🔶 fine-tuned on domain-specific datasets,49.78108992000614
+bigscience/bloomz-7b1-mt,7,,42.13803864417043
+databricks/dolly-v2-12b,12,🔶 fine-tuned on domain-specific datasets,39.45681851901109
+databricks/dolly-v2-3b,3,🔶 fine-tuned on domain-specific datasets,
+databricks/dolly-v2-7b,7,🔶 fine-tuned on domain-specific datasets,39.240691196349985
+facebook/opt-iml-max-1.3b,1,,35.205888158565834
+facebook/opt-iml-max-30b,30,,45.28437327330041
+garage-bAInd/Platypus2-70B-instruct,68,🔶 fine-tuned on domain-specific datasets,69.2996330598928
+garage-bAInd/Stable-Platypus2-13B,13,🔶 fine-tuned on domain-specific datasets,55.75411884026153
+h2oai/h2ogpt-oig-oasst1-512-6_9b,9,🔶 fine-tuned on domain-specific datasets,38.51742143035332
+lmsys/vicuna-7b-v1.5,7,,52.05662078097521
+lmsys/vicuna-7b-v1.5,7,🔶 fine-tuned on domain-specific datasets,51.9937163576299
+meta-llama/Llama-2-13b-chat-hf,13,"💬 chat models (RLHF, DPO, IFT, ...)",54.913330129300256
+meta-llama/Llama-2-70b-chat-hf,68,"💬 chat models (RLHF, DPO, IFT, ...)",62.395586113277396
+meta-llama/Llama-2-7b-chat-hf,6,"💬 chat models (RLHF, DPO, IFT, ...)",50.73977386071763
+meta-llama/Llama-2-7b-hf,6,🟢 pretrained,50.96641959745035
+meta-llama/Llama-2-7b-hf,0,,48.92665834649008
+migtissera/Synthia-13B,13,🔶 fine-tuned on domain-specific datasets,55.406431745368614
+migtissera/Synthia-7B,7,🔶 fine-tuned on domain-specific datasets,51.831927922333
+mistralai/Mistral-7B-Instruct-v0.1,7,"💬 chat models (RLHF, DPO, IFT, ...)",54.964081774475865
+mistralai/Mistral-7B-v0.1,7,🟢 pretrained,60.96941505813863
+mosaicml/mpt-7b-instruct,7,🔶 fine-tuned on domain-specific datasets,44.828984646998016
+openlm-research/open_llama_3b_v2,3,🟢 pretrained,40.281036145766514
+openlm-research/open_llama_7b_v2,7,🟢 pretrained,44.26332334380743
+tiiuae/falcon-7b,7,🟢 pretrained,44.17474040638268
+tiiuae/falcon-7b-instruct,7,,43.16491363154527
+tiiuae/falcon-7b-instruct,7,"💬 chat models (RLHF, DPO, IFT, ...)",43.263888814685636
+togethercomputer/RedPajama-INCITE-7B-Base,7,🟢 pretrained,41.49146241534145
+togethercomputer/RedPajama-INCITE-7B-Instruct,7,🔶 fine-tuned on domain-specific datasets,42.375750704310896
