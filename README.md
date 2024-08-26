@@ -2,7 +2,8 @@
 
 Author: Aisha Khatun\
 Affiliation: David R. Cheriton School of Computer Science, University of Waterloo, Canada.\
-Thesis: [Thesis Link](https://uwspace.uwaterloo.ca/items/e01e11a6-e033-4f6a-85c6-849fba74e039). \
+Thesis: [Thesis PDF Link](https://uwspace.uwaterloo.ca/items/e01e11a6-e033-4f6a-85c6-849fba74e039) \
+Slides: [Google Slides Link](https://docs.google.com/presentation/d/1rzBgxt7JzPmmHgOkzHOwa6HNvHF5m50eMRWxGJavtoY/edit?usp=sharing) \
 This thesis is presented to the University of Waterloo in fulfillment of the thesis requirement for the degree of Master of Mathematics in Computer Science.
 
 Papers derived from this research:
